@@ -14,3 +14,6 @@ The player has 3 rounds to play.
   If the player guesses correctly, they are awarded points based on the number of attempts.
  The game displays the total score at the end of all rounds.
 
+
+ <img align="right mt-5 mb-4 justify-between" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
