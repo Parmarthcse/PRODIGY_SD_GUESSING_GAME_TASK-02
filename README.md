@@ -1,4 +1,4 @@
-<h1>PRODIGY_SD_GUESSING_GAME_TASK-02</h1>
+<h1>PRODIGY_SD</h1>
 
 
 The aim is to create a Java Programm in which a user is given K chances to estimate a randomly generated number. 
